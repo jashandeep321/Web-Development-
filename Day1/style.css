@@ -96,6 +96,13 @@ header {
   margin: 0 auto;
 }
 
+.card img {
+  height: 80px;
+  /* object-fit: contain; */
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
 .card h3 {
   margin: 0.5rem 0;
   font-size: 1.5rem;
