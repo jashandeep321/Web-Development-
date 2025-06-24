@@ -1,21 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To-Do List</title>
-    <link rel="stylesheet" href="./style.css"/>
-    
+    <link rel="stylesheet" href="./style.css" />
+
 </head>
+
 <body>
     <div class="container">
         <h1>To-Do List</h1>
+        <div id="summary">
+            <p>Total: <span id="total">0</span></p>
+            <p>Completed: <span id="completed">0</span></p>
+            <p>Remaining: <span id="remaining">0</span></p>
+        </div>
+
+        <div id="filters">
+  <span class="filter-label">Tasks:</span>
+  <button class="filter-btn active-all" onclick="filterTasks('all', this)">All</button>
+  <button class="filter-btn" onclick="filterTasks('completed', this)">Completed</button>
+  <button class="filter-btn" onclick="filterTasks('incomplete', this)">Incomplete</button>
+</div>
         <div class="input-sec">
-            <input type="text" id="taskInput" placeholder="Add new task..."/>
+            <input type="text" id="taskInput" placeholder="Add new task..." />
             <button onclick="addTask()">Add</button>
         </div>
-        <ul id="taskList"></ul>
+        <ul id="tasks"></ul>
     </div>
+
+
     <script src="./script.js"></script>
 </body>
+
 </html>
