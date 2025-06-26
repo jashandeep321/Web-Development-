@@ -26,10 +26,11 @@ A simple RESTful API built as a Day 3 backend project to practice Node.js, Expre
    ```bash
    node server.js
 5. Use Postman to test endpoints:
+
    GET → http://localhost:3000/books
 
    POST → http://localhost:3000/books
 
    PUT → http://localhost:3000/books/:id
-   
+
    DELETE → http://localhost:3000/books/:id
