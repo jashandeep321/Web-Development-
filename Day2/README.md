@@ -34,5 +34,4 @@ A responsive and interactive **To-Do List** application built with **HTML**, **C
 
 ---
 
-## 📁 **File Structure**
 
