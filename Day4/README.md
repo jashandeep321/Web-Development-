@@ -1,4 +1,4 @@
-# ✅ **Personal Portfolio **
+# ✅ Personal Portfolio 
 
 A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, and **media queries**. This website highlights personal projects, skills, and contact information in a visually appealing format. It includes a mobile-friendly **hamburger menu** and smooth scroll navigation for a great user experience across devices.
 
