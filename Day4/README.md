@@ -21,7 +21,7 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, and 
 
 - **HTML5**  
 - **CSS3**  
-- **Vanilla JavaScript (for interactivity)**  
+- **JavaScript**  
 - **Media Queries** (for responsiveness)  
 - **CSS Flexbox and Grid**
 
