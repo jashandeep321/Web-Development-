@@ -35,3 +35,11 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, and 
 4. Resize the browser to test the **responsive hamburger menu**  
 5. Interact with the navigation, explore sections, and test the contact form  
 
+---
+
+## 🌐 Live Deployment
+
+This project is deployed and publicly accessible at:  
+👉 [https://jashandeep321.github.io/portfolio/](https://jashandeep321.github.io/portfolio/)
+
+
