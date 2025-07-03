@@ -18,7 +18,7 @@ This is a simple web application that uses the **JavaScript Fetch API** to retri
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - [DummyJSON Users API](https://dummyjson.com/users)
 
 ---
