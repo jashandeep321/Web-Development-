@@ -17,15 +17,16 @@ This project is a simple yet elegant **responsive blog layout** built using **Bo
 ## 🚀 Technologies Used
 
 - HTML5
-- CSS3 (Custom + Bootstrap 5)
-- Bootstrap 5.3 (via CDN)
-- JavaScript (Vanilla)
+- CSS3
+- Bootstrap 5.3
+- JavaScript
 
 ---
 
 ## 📷 Screenshot
 
 ![Screenshot](./Screenshots/desktop%20view.png) 
+
 ![Screenshot](./Screenshots/tablet%20view.png) 
 
 ![Screenshot](./Screenshots/mobile%20view.png) 
